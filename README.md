@@ -1,5 +1,7 @@
 Скачиваем скрипт командой:
 
+wget https://raw.githubusercontent.com/Ravil86/setup-ipsec-vpn/refs/heads/master/vpnsetup.sh
+
 wget https://git.io/vpnsetup -O vpnsetup.sh
 
 4) После завершения, открываем vpnsetup.sh для редактирования:
